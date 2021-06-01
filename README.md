@@ -1,1 +1,1 @@
-CRUD operations with MySql and Java
+CRUD operations with MySQL and Java
